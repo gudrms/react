@@ -1,7 +1,7 @@
-import MyComponent from "./MyComponent";
+import Count from "./Count";
 
 const App = () => {
-  return <MyComponent name={rea}>리액트</MyComponent>;
+  return <Count/>;
 };
 
 export default App;
